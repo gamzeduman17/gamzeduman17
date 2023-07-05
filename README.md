@@ -14,6 +14,8 @@ I also like movies, canvas drawing, sculpting, books 💞
 ## **If you want to reach me, check:**
 
 
-
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=blue" alt="Visitors badge" />
+ </a>
 [linkedin]: https://www.linkedin.com/in/gamzeduman/
 [gmail]: mailto:gamzeduman1729@gmail.com
