@@ -10,9 +10,11 @@ I also like movies, canvas drawing, sculpting, books 💞
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [gamzeduman1729@gmail.com](mailto:gamzeduman1729@gmail.com)
 ###Socials
+
+<br>
 <a href="https://www.github.com/gamzeduman17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 </a> <a href="https://www.linkedin.com/in/gamzeduman" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" />
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
