@@ -8,5 +8,7 @@ I have a bachelor's degree on Mathematics 🧮 and I previously on teaching Math
 I also like movies, canvas drawing, sculpting, books 💞
 
 If you want to reach me, check;
+
 [Linkedin](https://www.linkedin.com/in/gamzeduman/)
-[Mail](gamzeduman1729@gmail.com)
+
+[Mail](mailto<gamzeduman1729@gmail.com>)
